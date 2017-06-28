@@ -3,8 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 delete
-<<<<<<< HEAD
 1111111111111
-=======
-1111111111111
->>>>>>> feature1
