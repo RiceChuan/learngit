@@ -9,4 +9,8 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 checkout
 night checkout
+<<<<<<< HEAD
 night checkout 3
+=======
+night checkout 3
+>>>>>>> feature1
