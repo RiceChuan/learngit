@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 delete
 1111111111111
+666666666
